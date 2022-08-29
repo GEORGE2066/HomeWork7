@@ -29,7 +29,7 @@ public class Main {
 
 
 
-        /*ТРЕТИЙ ТАСК*/
+        /*ТРЕТИЙ 3ТАСК*/
 
         fullName = "Иванов Семён Семёнович";
         fullName = fullName.replace("ё", "е");
